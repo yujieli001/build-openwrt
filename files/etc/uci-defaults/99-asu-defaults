@@ -5,10 +5,10 @@
 # pppoe_password=""
 
 # Configure password
-root_password="root"
+root_password="yg2004!"
 
 # Configure LAN
-lan_ip_address="192.168.31.1"
+lan_ip_address="192.168.1.254"
 
 if [ -n "$root_password" ]; then
   (
